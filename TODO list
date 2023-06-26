@@ -1,0 +1,54 @@
+INSIDE GAME
+1. Points for combos    -
+
+2. Hit grading          -
+2.1 Points
+2.2 Visualization
+
+3. Ranking              -
+
+4. Visualization       -+
+
+5. Music                +
+-----
+OUTSIDE GAME
+1. Start menu
+ - visual               +
+ - interaction          +
+
+2. Pause menu 
+- visual                +
+- interaction           +
+
+3. Clear menu
+- visual                +
+- interaction           +
+
+4. Editor menu          -
+4.1 specific object generation
+4.2 timed object generation
+4.3 Interface
+4.4 rewind and play
+4.5 store (4.1)
+- visual                -
+- interaction           -
+
+5. Generalized map file -
+5.1 Store map
+5.2 map file parser / reader
+
+6. Song selection menu (difficulty?)
+- visual                +
+- interaction           -+
+
+7. Settings menu
+- visual                +
+- interaction           -
+
+8. Accounts             -
+-----
+NON - PROGRAMMING
+Artwork
+Music
+Buttons
+Touchscreen
